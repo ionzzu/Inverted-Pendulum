@@ -13,7 +13,7 @@ Thrust vectored inverted pendulum stabilized via PID controller ([Video](https:/
 ## Background
 
 - Thrust vector control is often used to steer an aircraft or rocket by adjusting the direction of thrust
-- This project forms a basis for control model for a thrust vectored rocket
+- This project forms a basis for a control model for a thrust vectored rocket
 
 ## Goals
 
